@@ -14,6 +14,7 @@ const App = () => {
       });
       if(index>0){
         ref.current[index-1].focus()
+        
       }
       
     }
